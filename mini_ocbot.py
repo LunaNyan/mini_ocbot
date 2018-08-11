@@ -10,8 +10,14 @@ versiontext = "1.0.0"
 m_emoticon = ['>_<', '>ㅅ<', '>ㅁ<', 'ㅇㅅㅇ']
 m_emoticon_tail = ['', '~', '~☆', '~//']
 
-t_blush = 
-t_pat = 
+t_blush = ['흐와앗', '후와아', '후에엣', '하와와']
+t_blush_tail = ['..', '~//ㅅ//', '..!']
+
+t_surprised = ['흐엣', '흐왓', '후냣']
+t_surprised_tail = ['..!', '!', '..']
+
+t_pat = ['히냐앙', '후와앗', '헤헤']
+
 
 
 #Startup
