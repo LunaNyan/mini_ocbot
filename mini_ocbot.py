@@ -33,6 +33,11 @@ while 1:
 	inp = input (">>>")
 	if inp == "exit":
 		break
+	elif inp == "help":
+		print ("지금은 아무 말이나 써도 똑같이 반응합니다")
+		print (" ")
+		print ("help	해당 도움말을 표시합니다")
+		print ("exit	애플리케이션을 종료합니다")
 	else:
 		a = random.randrange(1,3)
 		if a == 1:
