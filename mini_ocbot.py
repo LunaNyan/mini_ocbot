@@ -7,6 +7,8 @@ import re
 versiontext = "1.0.0"
 
 #mini db
+m_behavior = ['(꼬리살랑', '(쫑긋']
+
 m_emoticon = ['>_<', '>ㅅ<', '>ㅁ<', '//ㅅ//']
 m_emoticon_tail = ['', '~', '~☆', '~//']
 
@@ -26,7 +28,7 @@ conv_save = 0
 
 #Startup
 print ("미니 오너캐봇 v" + versiontext)
-print ("by 루냥이, at 20180811, https://keybase.io/lunanyan")
+print ("by 루냥이, at 20180831, https://keybase.io/lunanyan")
 print (" ")
 print ("지원 가능한 대화어는 help를 입력하십시오.")
 print (" ")
